@@ -1,1 +1,33 @@
+1) git init command is used to initially the repo;
 
+2) git add . command is used to add the all files stagging level;
+
+3) git commit -m command is used to commit the changes in the repo;
+
+4) git branch -a command is used to get entire branches present;
+
+5) git branch -D branchname command is used to delete the branch name;
+
+6) git branch -b branchname command is used to create branch to the repo;
+
+7) git checkout brachname command is used to switch according to the braches;
+
+8) git log command is used view all the data of the commit changes;
+
+9)git log --oneline command to get shortview of the data;
+
+10)git revert  command to delete the new features according to the time line;
+
+11)git reset --hard command is to delete the all features according to the time line;
+
+12)git checkout logid command is used to got to the timeline of the commit changes.
+
+13)git merge branchname command is used merge the content of the two braches;
+
+14)git status command is used to get the details of th commits;
+
+15)git pull  command is used to get the data from the repository;
+
+16)git push command is used to send the changes data to the remote respostiory;
+
+17)git clone command is used to clone entire data of the folder;
