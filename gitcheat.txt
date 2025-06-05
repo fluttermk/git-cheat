@@ -14,7 +14,7 @@
 
 8) git log command is used view all the data of the commit changes;
 
-9)git log --oneline command to get shortview of the data;
+9)git log --oneline command to get shortview of the data
 
 10)git revert  command to delete the new features according to the time line;
 
